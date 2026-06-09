@@ -6,7 +6,7 @@ This repository contains the report for a study that quantifies inter-limb (domi
 
 ## Document
 
-- [`Quantification of Inter-Limb Asymmetry During Self-Feeding Tasks.pdf`](Quantification of Inter-Limb Asymmetry During Self-Feeding Tasks.pdf) — Full report (9 pages).
+- [`Quantification of Inter-Limb Asymmetry During Self-Feeding Tasks.pdf`] — Full report (9 pages).
 
 ## Authors
 
